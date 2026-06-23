@@ -17,4 +17,4 @@
 - 📖 Open to cybersecurity internships in KL
 
 ## Connect
-[![LinkedIn](linkedin.com/in/mariam-adam-02b60936)
+(linkedin.com/in/mariam-adam-02b609360)
