@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm [Mariam Adam Ibrahim Adam] 👋
 
-<!--
-**MariamAdam45/MariamAdam45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc Cybersecurity @ Asia Pacific University (APU)
+🔐 ISC2 Certified in Cybersecurity (CC)
+🛡️ Tier 1 SOC Analyst — APU Security Operations Centre
+🌍 Kuala Lumpur, Malaysia
 
-Here are some ideas to get you started:
+## What I work with
+- SIEM: Security Onion · Kibana · Suricata · Zeek
+- Threat Intel: MISP · MSSGard · OSINT
+- Offensive: Nmap · Metasploit · CTF (OxCYNX)
+- Languages: Python · SQL · Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently
+- 🔭 Building my cybersecurity home lab
+- 📚 Working through TryHackMe SOC Level 1 path
+- 📖 Open to cybersecurity internships in KL
+
+## Connect
+[![LinkedIn](linkedin.com/in/mariam-adam-02b60936)
